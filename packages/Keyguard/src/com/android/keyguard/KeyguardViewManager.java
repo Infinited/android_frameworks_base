@@ -294,7 +294,6 @@ public class KeyguardViewManager {
                 } else {
                     mRotated = false;
                 }
-                drawToCanvas(canvas, mCustomBackground);
             }
 
             @Override
